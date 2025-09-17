@@ -6,7 +6,6 @@ Over the past month, I explored everything from the basics of ML to advanced dee
 ---
 
 ## 📌 Contents
-- **Linear Regression & Logistic Regression** – Introduction to supervised learning  
 - **Student Performance Analysis** – Understanding factors influencing academic outcomes  
 - **Customer Segmentation** – Applying unsupervised learning (Clustering)  
 - **Forest Cover Type Prediction** – Tackling a structured ML dataset  
